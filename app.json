@@ -1,0 +1,17 @@
+{
+  "name": "steady",
+  "displayName": "steady",
+  "expo": {
+    "name": "steady",
+    "slug": "steady",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
